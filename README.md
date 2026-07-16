@@ -339,7 +339,6 @@ High-performance multi-tenant SaaS analytics platform delivering real-time insig
 
 ## 🏆 Awards & Achievements
 
-<sub>GitHub surfaces achievements on your profile automatically — this section showcases platform recognition, contribution milestones, and portfolio highlights.</sub>
 
 ### 🎖️ GitHub Platform Recognition
 
@@ -382,16 +381,7 @@ High-performance multi-tenant SaaS analytics platform delivering real-time insig
 
 </div>
 
-### 📌 How GitHub Achievements Work
 
-GitHub awards **profile achievements** (badges like *Pull Shark*, *YOLO*, *Quickdraw*) when you:
-
-- Merge pull requests and review code
-- Fix issues and participate in discussions
-- Ship consistent commits across repositories
-- Use GitHub features (Actions, security, co-authors)
-
-**To showcase them:** they appear on the [Achievements tab](https://github.com/agentic-amjad?tab=achievements) and in the profile sidebar once earned. This README uses **trophy cards** and **stats widgets** that update automatically from public activity.
 
 ---
 
