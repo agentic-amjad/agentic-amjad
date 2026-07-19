@@ -165,13 +165,38 @@ LLM INTEGRATION           ██████████████████
 
 <div align="center">
 
-<a href="https://github.com/agentic-amjad?tab=achievements">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agentic-amjad&theme=chartreuse_dark" alt="GitHub Profile Details" width="98%" />
-</a>
+<table>
+<tr>
+<td align="center" width="25%">
 
-<br/><br/>
+**🗂️ REPOSITORIES**
+### 100+
+production & research
 
-<img src="https://github-profile-trophy.vercel.app/?username=agentic-amjad&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=8" width="95%" alt="GitHub Trophies" />
+</td>
+<td align="center" width="25%">
+
+**⚡ SYSTEMS SHIPPED**
+### 80+
+autonomous agents
+
+</td>
+<td align="center" width="25%">
+
+**🔥 CONTRIBUTIONS**
+### 2000+
+and counting
+
+</td>
+<td align="center" width="25%">
+
+**📅 ACTIVE SINCE**
+### 2024
+consistent shipping
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -179,6 +204,10 @@ LLM INTEGRATION           ██████████████████
 ![Contributions](https://img.shields.io/badge/Contributions-2000%2B-F72585?style=flat-square&labelColor=0F0C29)
 ![Activity](https://img.shields.io/badge/Active-2024--2026-7B2FBE?style=flat-square&labelColor=0F0C29)
 ![Focus](https://img.shields.io/badge/Focus-Multi--Agent_AI-00C853?style=flat-square&labelColor=0F0C29)
+
+<br/>
+
+[![View Achievements](https://img.shields.io/badge/View-GitHub_Achievements-00F5D4?style=for-the-badge&labelColor=0a0a0a)](https://github.com/agentic-amjad?tab=achievements)
 
 </div>
 
